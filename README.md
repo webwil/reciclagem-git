@@ -1,10 +1,10 @@
-# Titulo
+# Projeto Python
 
-## Sub-titulo
+## Remando estudos
 
-_italico_
+_revisão de conteudos basicos_
 
-**Negrito**
+**Projeto para treino**
 
 Esse é meu primeiro README
 
